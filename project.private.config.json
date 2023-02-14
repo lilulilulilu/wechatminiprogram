@@ -1,0 +1,6 @@
+{
+  "projectname": "wechatminiprogram",
+  "setting": {
+    "compileHotReLoad": true
+  }
+}
